@@ -1,0 +1,2 @@
+module PerfectNumberChapter6 {
+}
