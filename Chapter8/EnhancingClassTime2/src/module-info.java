@@ -1,0 +1,2 @@
+module EnhancingClassTime2 {
+}
