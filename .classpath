@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Chapter4/SalesComissionCalculatorChapter4/src"/>
+	<classpathentry kind="src" path="Chapter5/DiamondPrintingProgramChapter5/src"/>
+	<classpathentry kind="src" path="Chapter5/FactorialChapter5/src"/>
+	<classpathentry kind="src" path="Chapter5/TrainglePrintingProgramChapter5/src"/>
+	<classpathentry kind="src" path="Chapter6/GuessTheNumberChapter6/src"/>
+	<classpathentry kind="src" path="Chapter6/GuessTheNumberModificationChapter6/src"/>
+	<classpathentry kind="src" path="Chapter6/ParkingChargesChapter6/src"/>
+	<classpathentry kind="src" path="Chapter6/PerfectNumberChapter6/src"/>
+	<classpathentry kind="src" path="Chapter7/AirlineReservationSystemChapter7/src"/>
+	<classpathentry kind="src" path="Chapter7/CaseStudyGradeBookChapter7/src"/>
+	<classpathentry kind="src" path="Chapter8/EnhancingClassTime2/src"/>
+	<classpathentry kind="src" path="Chapter8/SavingsAccountClass/src"/>
+	<classpathentry kind="src" path="Chapter8/TrafficLight/src"/>
+	<classpathentry kind="output" path="Chapter4/SalesComissionCalculatorChapter4/bin"/>
+</classpath>
